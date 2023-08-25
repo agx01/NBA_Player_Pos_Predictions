@@ -3,7 +3,7 @@ NBA Player Position Prediction using Data Minining Techniques
 
 ## Dataset
 NBA Player statistics data from 2021.
-![Data set information](http://url/to/img.png)
+![Data set information](https://github.com/agx01/NBA_Player_Pos_Predictions/blob/main/Dataset.png)
 
 ## Random Forest Performance
 ![Random Forest Performance (Tree Accuracy vs Top n Features) ](https://github.com/agx01/NBA_Player_Pos_Predictions/blob/main/DecisionTreeAccuracyVmaxDepth.png)
